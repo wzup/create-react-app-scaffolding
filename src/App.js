@@ -9,6 +9,9 @@ class App extends Component {
         <header className="App-header">
           <h2>Muses</h2>
         </header>
+        <div className='App-contents'>
+          <button>FETCH MUSIC</button>
+        </div>
       </div>
     );
   }
